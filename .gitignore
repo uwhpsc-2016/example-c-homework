@@ -1,3 +1,7 @@
+## Cython wrappers
+example_homework/squaring.c
+example_homework/cubing.c
+
 ## C .gitignore
 # Object files
 *.o
