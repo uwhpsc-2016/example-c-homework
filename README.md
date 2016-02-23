@@ -13,11 +13,15 @@ Provide definitions to the functions `square` and `cube` defined in the C source
 files `src/squaring.c` and `src/cubing.c`, respectively.
 
 ```c
-long square(long x):
-    # return the square of x
+long square(long x)
+{
+    // return the square of x
+}
     
 long cube(long x):
-    # return the cube of x
+{
+    // return the cube of x
+}
 ```
 
 The provided example test suite can be executed using
