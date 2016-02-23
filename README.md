@@ -18,7 +18,7 @@ long square(long x)
     // return the square of x
 }
     
-long cube(long x):
+long cube(long x)
 {
     // return the cube of x
 }
